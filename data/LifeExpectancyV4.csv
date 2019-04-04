@@ -1,0 +1,607 @@
+T03,Country,Year,Life Expectancy
+4,Afghanistan,2005,56.9
+4,Afghanistan,2010,60
+4,Afghanistan,2015,62.3
+8,Albania,2005,74.8
+8,Albania,2010,75.6
+8,Albania,2015,77.7
+12,Algeria,2005,71.5
+12,Algeria,2010,73.9
+12,Algeria,2015,75.3
+24,Angola,2005,50
+24,Angola,2010,55.6
+24,Angola,2015,60.2
+28,Antigua and Barbuda,2005,74.1
+28,Antigua and Barbuda,2010,75
+28,Antigua and Barbuda,2015,75.8
+32,Argentina,2005,74.3
+32,Argentina,2010,75.2
+32,Argentina,2015,76
+51,Armenia,2005,72.4
+51,Armenia,2010,72.7
+51,Armenia,2015,74
+533,Aruba,2005,74
+533,Aruba,2010,74.7
+533,Aruba,2015,75.4
+36,Australia,2005,80.3
+36,Australia,2010,81.5
+36,Australia,2015,82.3
+40,Austria,2005,78.9
+40,Austria,2010,80.1
+40,Austria,2015,81
+31,Azerbaijan,2005,67.4
+31,Azerbaijan,2010,70.1
+31,Azerbaijan,2015,71.6
+44,Bahamas,2005,73.2
+44,Bahamas,2010,74.3
+44,Bahamas,2015,75.1
+48,Bahrain,2005,74.9
+48,Bahrain,2010,75.7
+48,Bahrain,2015,76.4
+50,Bangladesh,2005,66.7
+50,Bangladesh,2010,69
+50,Bangladesh,2015,71.2
+52,Barbados,2005,73.8
+52,Barbados,2010,74.6
+52,Barbados,2015,75.4
+112,Belarus,2005,67.8
+112,Belarus,2010,69.3
+112,Belarus,2015,72.1
+56,Belgium,2005,78.4
+56,Belgium,2010,79.6
+56,Belgium,2015,80.5
+84,Belize,2005,68.5
+84,Belize,2010,69.6
+84,Belize,2015,69.8
+204,Benin,2005,56.2
+204,Benin,2010,58.6
+204,Benin,2015,59.9
+60,Bermuda,2010,79.3
+64,Bhutan,2005,62.9
+64,Bhutan,2010,66.5
+64,Bhutan,2015,68.8
+68,Bolivia (Plurin. State of),2005,62.1
+68,Bolivia (Plurin. State of),2010,64.9
+68,Bolivia (Plurin. State of),2015,67.7
+70,Bosnia and Herzegovina,2005,74.8
+70,Bosnia and Herzegovina,2010,75.5
+70,Bosnia and Herzegovina,2015,76.3
+72,Botswana,2005,49.2
+72,Botswana,2010,56.5
+72,Botswana,2015,62.9
+76,Brazil,2005,71.1
+76,Brazil,2010,72.9
+76,Brazil,2015,74.7
+96,Brunei Darussalam,2005,75.7
+96,Brunei Darussalam,2010,76.7
+96,Brunei Darussalam,2015,76.7
+100,Bulgaria,2005,72.2
+100,Bulgaria,2010,73.1
+100,Bulgaria,2015,74.3
+854,Burkina Faso,2005,51.6
+854,Burkina Faso,2010,55.3
+854,Burkina Faso,2015,58.7
+108,Burundi,2005,52
+108,Burundi,2010,53.7
+108,Burundi,2015,56.1
+132,Cabo Verde,2005,71.3
+132,Cabo Verde,2010,71.8
+132,Cabo Verde,2015,72.2
+116,Cambodia,2005,60.8
+116,Cambodia,2010,65.1
+116,Cambodia,2015,67.6
+120,Cameroon,2005,51.5
+120,Cameroon,2010,54.4
+120,Cameroon,2015,56.4
+124,Canada,2005,79.7
+124,Canada,2010,80.8
+124,Canada,2015,81.8
+140,Central African Republic,2005,43.7
+140,Central African Republic,2010,46
+140,Central African Republic,2015,49.4
+148,Chad,2005,47.7
+148,Chad,2010,48.9
+148,Chad,2015,51.7
+830,Channel Islands,2005,78.3
+830,Channel Islands,2010,79.6
+830,Channel Islands,2015,80.6
+152,Chile,2005,77.4
+152,Chile,2010,78.1
+152,Chile,2015,78.8
+156,China,2005,73.1
+156,China,2010,74.7
+156,China,2015,75.7
+344,"China, Hong Kong SAR",2005,81.4
+344,"China, Hong Kong SAR",2010,82.4
+344,"China, Hong Kong SAR",2015,83.4
+446,"China, Macao SAR",2005,81
+446,"China, Macao SAR",2010,82.1
+446,"China, Macao SAR",2015,83.3
+170,Colombia,2005,71.7
+170,Colombia,2010,72.9
+170,Colombia,2015,73.7
+174,Comoros,2005,59.6
+174,Comoros,2010,60.9
+174,Comoros,2015,62.8
+178,Congo,2005,52.1
+178,Congo,2010,58
+178,Congo,2015,62.5
+188,Costa Rica,2005,77.8
+188,Costa Rica,2010,78.4
+188,Costa Rica,2015,79.2
+384,C̫te d'Ivoire,2005,46.7
+384,C̫te d'Ivoire,2010,49.2
+384,C̫te d'Ivoire,2015,51.7
+191,Croatia,2005,74.9
+191,Croatia,2010,76.1
+191,Croatia,2015,77
+192,Cuba,2005,77.2
+192,Cuba,2010,78.7
+192,Cuba,2015,79.2
+531,Cura̤ao,2005,75
+531,Cura̤ao,2010,76.1
+531,Cura̤ao,2015,77.8
+196,Cyprus,2005,78.3
+196,Cyprus,2010,79
+196,Cyprus,2015,79.9
+203,Czechia,2005,75.5
+203,Czechia,2010,77
+203,Czechia,2015,78.2
+408,Dem. People's Rep. Korea,2005,68.1
+408,Dem. People's Rep. Korea,2010,68.4
+408,Dem. People's Rep. Korea,2015,70.8
+180,Dem. Rep. of the Congo,2005,51.8
+180,Dem. Rep. of the Congo,2010,55.5
+180,Dem. Rep. of the Congo,2015,58.1
+208,Denmark,2005,77.3
+208,Denmark,2010,78.6
+208,Denmark,2015,80.1
+262,Djibouti,2005,57.3
+262,Djibouti,2010,59.1
+262,Djibouti,2015,61.6
+214,Dominican Republic,2005,71.1
+214,Dominican Republic,2010,72.2
+214,Dominican Republic,2015,73.2
+218,Ecuador,2005,73.6
+218,Ecuador,2010,74.6
+218,Ecuador,2015,75.5
+818,Egypt,2005,69
+818,Egypt,2010,69.9
+818,Egypt,2015,70.8
+222,El Salvador,2005,69.6
+222,El Salvador,2010,71.1
+222,El Salvador,2015,72.6
+226,Equatorial Guinea,2005,53.6
+226,Equatorial Guinea,2010,54.9
+226,Equatorial Guinea,2015,56.8
+232,Eritrea,2005,56.7
+232,Eritrea,2010,60.7
+232,Eritrea,2015,63.4
+233,Estonia,2005,71.6
+233,Estonia,2010,73.8
+233,Estonia,2015,76.8
+231,Ethiopia,2005,53.6
+231,Ethiopia,2010,59.1
+231,Ethiopia,2015,63.7
+242,Fiji,2005,68
+242,Fiji,2010,68.8
+242,Fiji,2015,69.7
+246,Finland,2005,78.4
+246,Finland,2010,79.5
+246,Finland,2015,80.7
+250,France,2005,79.4
+250,France,2010,80.8
+250,France,2015,81.9
+254,French Guiana,2005,76.1
+254,French Guiana,2010,78
+254,French Guiana,2015,79.2
+258,French Polynesia,2005,73.2
+258,French Polynesia,2010,75
+258,French Polynesia,2015,76.1
+266,Gabon,2005,59.1
+266,Gabon,2010,61.3
+266,Gabon,2015,64.5
+270,Gambia,2005,56.9
+270,Gambia,2010,58.8
+270,Gambia,2015,60.3
+268,Georgia,2005,72.6
+268,Georgia,2010,72.7
+268,Georgia,2015,72.8
+276,Germany,2005,78.6
+276,Germany,2010,79.7
+276,Germany,2015,80.4
+288,Ghana,2005,57.5
+288,Ghana,2010,60
+288,Ghana,2015,61.7
+300,Greece,2005,79.1
+300,Greece,2010,80
+300,Greece,2015,80.6
+308,Grenada,2005,70.9
+308,Grenada,2010,72
+308,Grenada,2015,73.2
+312,Guadeloupe,2005,77.9
+312,Guadeloupe,2010,79.3
+312,Guadeloupe,2015,80.5
+316,Guam,2005,75.9
+316,Guam,2010,77.4
+316,Guam,2015,78.8
+320,Guatemala,2005,68.9
+320,Guatemala,2010,70.5
+320,Guatemala,2015,72.4
+324,Guinea,2005,51.3
+324,Guinea,2010,55.5
+324,Guinea,2015,57.9
+624,Guinea-Bissau,2005,52.7
+624,Guinea-Bissau,2010,54.2
+624,Guinea-Bissau,2015,56
+328,Guyana,2005,65.3
+328,Guyana,2010,65.8
+328,Guyana,2015,66.3
+332,Haiti,2005,58.3
+332,Haiti,2010,60.2
+332,Haiti,2015,62.3
+340,Honduras,2005,71
+340,Honduras,2010,72
+340,Honduras,2015,72.9
+348,Hungary,2005,72.5
+348,Hungary,2010,73.7
+348,Hungary,2015,75.4
+352,Iceland,2005,80.7
+352,Iceland,2010,81.4
+352,Iceland,2015,82.2
+356,India,2005,63.5
+356,India,2010,65.6
+356,India,2015,67.6
+360,Indonesia,2005,66.7
+360,Indonesia,2010,67.7
+360,Indonesia,2015,68.6
+364,Iran (Islamic Republic of),2005,71.1
+364,Iran (Islamic Republic of),2010,72.7
+364,Iran (Islamic Republic of),2015,75.1
+368,Iraq,2005,68.9
+368,Iraq,2010,68
+368,Iraq,2015,69.2
+372,Ireland,2005,77.8
+372,Ireland,2010,79.7
+372,Ireland,2015,80.9
+376,Israel,2005,79.6
+376,Israel,2010,80.9
+376,Israel,2015,81.9
+380,Italy,2005,80.3
+380,Italy,2010,81.5
+380,Italy,2015,82.3
+388,Jamaica,2005,72.8
+388,Jamaica,2010,74.2
+388,Jamaica,2015,75.5
+392,Japan,2005,81.8
+392,Japan,2010,82.7
+392,Japan,2015,83.3
+400,Jordan,2005,72.2
+400,Jordan,2010,73
+400,Jordan,2015,73.8
+398,Kazakhstan,2005,64.6
+398,Kazakhstan,2010,66.1
+398,Kazakhstan,2015,69.1
+404,Kenya,2005,52.7
+404,Kenya,2010,59.7
+404,Kenya,2015,65.4
+296,Kiribati,2005,64.5
+296,Kiribati,2010,65.1
+296,Kiribati,2015,65.7
+414,Kuwait,2005,73.3
+414,Kuwait,2010,73.7
+414,Kuwait,2015,74.3
+417,Kyrgyzstan,2005,66.9
+417,Kyrgyzstan,2010,67.5
+417,Kyrgyzstan,2015,70.3
+418,Lao People's Dem. Rep.,2005,60.3
+418,Lao People's Dem. Rep.,2010,63.2
+418,Lao People's Dem. Rep.,2015,65.4
+428,Latvia,2005,70.8
+428,Latvia,2010,71.6
+428,Latvia,2015,73.9
+422,Lebanon,2005,75.6
+422,Lebanon,2010,77.7
+422,Lebanon,2015,78.9
+426,Lesotho,2005,45.6
+426,Lesotho,2010,49
+426,Lesotho,2015,52.5
+430,Liberia,2005,52.4
+430,Liberia,2010,58.1
+430,Liberia,2015,60.7
+434,Libya,2005,70.8
+434,Libya,2010,71.8
+434,Libya,2015,71.5
+440,Lithuania,2005,71.6
+440,Lithuania,2010,71.9
+440,Lithuania,2015,74
+442,Luxembourg,2005,78.3
+442,Luxembourg,2010,79.5
+442,Luxembourg,2015,81.1
+450,Madagascar,2005,60
+450,Madagascar,2010,62.2
+450,Madagascar,2015,64.5
+454,Malawi,2005,47.3
+454,Malawi,2010,53.4
+454,Malawi,2015,60.7
+458,Malaysia,2005,73.2
+458,Malaysia,2010,73.7
+458,Malaysia,2015,74.7
+462,Maldives,2005,72.1
+462,Maldives,2010,75.6
+462,Maldives,2015,76.3
+466,Mali,2005,50
+466,Mali,2010,54
+466,Mali,2015,56.2
+470,Malta,2005,78.5
+470,Malta,2010,79.4
+470,Malta,2015,80.3
+474,Martinique,2005,78.9
+474,Martinique,2010,80.1
+474,Martinique,2015,81.2
+478,Mauritania,2005,60.3
+478,Mauritania,2010,61.3
+478,Mauritania,2015,62.6
+480,Mauritius,2005,72.1
+480,Mauritius,2010,72.8
+480,Mauritius,2015,74.1
+175,Mayotte,2005,76.5
+175,Mayotte,2010,78
+175,Mayotte,2015,79.3
+484,Mexico,2005,74.9
+484,Mexico,2010,75.7
+484,Mexico,2015,76.5
+583,Micronesia (Fed. States of),2005,67.6
+583,Micronesia (Fed. States of),2010,68.3
+583,Micronesia (Fed. States of),2015,68.8
+496,Mongolia,2005,64.1
+496,Mongolia,2010,66.1
+496,Mongolia,2015,68.5
+499,Montenegro,2005,73.4
+499,Montenegro,2010,74.2
+499,Montenegro,2015,76.4
+504,Morocco,2005,70
+504,Morocco,2010,72.9
+504,Morocco,2015,74.9
+508,Mozambique,2005,49.6
+508,Mozambique,2010,53.2
+508,Mozambique,2015,56.1
+104,Myanmar,2005,62.9
+104,Myanmar,2010,64.3
+104,Myanmar,2015,66
+516,Namibia,2005,53.8
+516,Namibia,2010,55
+516,Namibia,2015,61.7
+524,Nepal,2005,64.1
+524,Nepal,2010,66.8
+524,Nepal,2015,68.9
+528,Netherlands,2005,78.7
+528,Netherlands,2010,80.2
+528,Netherlands,2015,81.3
+540,New Caledonia,2005,74.1
+540,New Caledonia,2010,75.2
+540,New Caledonia,2015,76.3
+554,New Zealand,2005,79.1
+554,New Zealand,2010,80.3
+554,New Zealand,2015,81.3
+558,Nicaragua,2005,70.9
+558,Nicaragua,2010,72.8
+558,Nicaragua,2015,74.5
+562,Niger,2005,51.4
+562,Niger,2010,54.9
+562,Niger,2015,58.5
+566,Nigeria,2005,46.9
+566,Nigeria,2010,49.7
+566,Nigeria,2015,51.9
+578,Norway,2005,79.3
+578,Norway,2010,80.6
+578,Norway,2015,81.6
+512,Oman,2005,73.2
+512,Oman,2010,75.1
+512,Oman,2015,76.2
+158,Other non-specified areas,2005,76.9
+158,Other non-specified areas,2010,78.2
+158,Other non-specified areas,2015,79.2
+586,Pakistan,2005,63.3
+586,Pakistan,2010,64.4
+586,Pakistan,2015,65.9
+585,Palau,2015,73
+591,Panama,2005,75.5
+591,Panama,2010,76.4
+591,Panama,2015,77.3
+598,Papua New Guinea,2005,62.6
+598,Papua New Guinea,2010,64.2
+598,Papua New Guinea,2015,65
+600,Paraguay,2005,70.8
+600,Paraguay,2010,71.8
+600,Paraguay,2015,72.7
+604,Peru,2005,71.6
+604,Peru,2010,73.1
+604,Peru,2015,74.2
+608,Philippines,2005,67.5
+608,Philippines,2010,68.1
+608,Philippines,2015,68.6
+616,Poland,2005,74.6
+616,Poland,2010,75.6
+616,Poland,2015,77
+620,Portugal,2005,77.6
+620,Portugal,2010,79.3
+620,Portugal,2015,80.5
+630,Puerto Rico,2005,76.8
+630,Puerto Rico,2010,77.9
+630,Puerto Rico,2015,79.2
+634,Qatar,2005,76.6
+634,Qatar,2010,77
+634,Qatar,2015,77.7
+410,Republic of Korea,2005,77.2
+410,Republic of Korea,2010,79.5
+410,Republic of Korea,2015,81.3
+498,Republic of Moldova,2005,67.6
+498,Republic of Moldova,2010,68.3
+498,Republic of Moldova,2015,71
+638,R̩union,2005,76.8
+638,R̩union,2010,78.2
+638,R̩union,2015,79.5
+642,Romania,2005,71.5
+642,Romania,2010,73.1
+642,Romania,2015,74.8
+643,Russian Federation,2005,64.9
+643,Russian Federation,2010,67.1
+643,Russian Federation,2015,70.3
+646,Rwanda,2005,50.6
+646,Rwanda,2010,60.1
+646,Rwanda,2015,65.2
+662,Saint Lucia,2005,72.1
+662,Saint Lucia,2010,74
+662,Saint Lucia,2015,74.8
+670,Saint Vincent & Grenadines,2005,70.7
+670,Saint Vincent & Grenadines,2010,71.8
+670,Saint Vincent & Grenadines,2015,72.7
+882,Samoa,2005,70.1
+882,Samoa,2010,72.1
+882,Samoa,2015,74.1
+678,Sao Tome and Principe,2005,63.8
+678,Sao Tome and Principe,2010,65.5
+678,Sao Tome and Principe,2015,66.1
+682,Saudi Arabia,2005,72.9
+682,Saudi Arabia,2010,73.2
+682,Saudi Arabia,2015,74
+686,Senegal,2005,58.9
+686,Senegal,2010,62.4
+686,Senegal,2015,65.7
+688,Serbia,2005,72.4
+688,Serbia,2010,73.3
+688,Serbia,2015,74.7
+690,Seychelles,2005,72.1
+690,Seychelles,2010,72.4
+690,Seychelles,2015,72.9
+694,Sierra Leone,2005,41.3
+694,Sierra Leone,2010,45.9
+694,Sierra Leone,2015,50.2
+702,Singapore,2005,79.2
+702,Singapore,2010,81.2
+702,Singapore,2015,82.3
+703,Slovakia,2005,73.8
+703,Slovakia,2010,74.8
+703,Slovakia,2015,76.3
+705,Slovenia,2005,76.7
+705,Slovenia,2010,78.6
+705,Slovenia,2015,80.3
+90,Solomon Islands,2005,64.7
+90,Solomon Islands,2010,67.4
+90,Solomon Islands,2015,69.6
+706,Somalia,2005,51.5
+706,Somalia,2010,53.2
+706,Somalia,2015,54.9
+710,South Africa,2005,53.8
+710,South Africa,2010,53.1
+710,South Africa,2015,59.5
+728,South Sudan,2005,50.2
+728,South Sudan,2010,52.3
+728,South Sudan,2015,55.1
+724,Spain,2005,79.9
+724,Spain,2010,81.2
+724,Spain,2015,82.5
+144,Sri Lanka,2005,73.2
+144,Sri Lanka,2010,74.1
+144,Sri Lanka,2015,74.6
+275,State of Palestine,2005,71.2
+275,State of Palestine,2010,72
+275,State of Palestine,2015,72.9
+729,Sudan,2005,59.4
+729,Sudan,2010,61.5
+729,Sudan,2015,63.6
+740,Suriname,2005,68.1
+740,Suriname,2010,69.6
+740,Suriname,2015,70.9
+748,Swaziland,2005,46
+748,Swaziland,2010,48.4
+748,Swaziland,2015,55
+752,Sweden,2005,80.1
+752,Sweden,2010,81.1
+752,Sweden,2015,81.9
+756,Switzerland,2005,80.5
+756,Switzerland,2010,81.8
+756,Switzerland,2015,82.7
+760,Syrian Arab Republic,2005,73.6
+760,Syrian Arab Republic,2010,74.5
+760,Syrian Arab Republic,2015,69.9
+762,Tajikistan,2005,66.5
+762,Tajikistan,2010,68.7
+762,Tajikistan,2015,70.4
+764,Thailand,2005,71.2
+764,Thailand,2010,73.2
+764,Thailand,2015,74.6
+807,TFYR of Macedonia,2005,73.8
+807,TFYR of Macedonia,2010,74.2
+807,TFYR of Macedonia,2015,75.1
+626,Timor-Leste,2005,61.5
+626,Timor-Leste,2010,66.4
+626,Timor-Leste,2015,67.7
+768,Togo,2005,53.9
+768,Togo,2010,55.8
+768,Togo,2015,59.1
+776,Tonga,2005,71.2
+776,Tonga,2010,71.8
+776,Tonga,2015,72.5
+780,Trinidad and Tobago,2005,68.7
+780,Trinidad and Tobago,2010,69.3
+780,Trinidad and Tobago,2015,70.2
+788,Tunisia,2005,73.7
+788,Tunisia,2010,74.6
+788,Tunisia,2015,75
+792,Turkey,2005,71.4
+792,Turkey,2010,73.4
+792,Turkey,2015,74.8
+795,Turkmenistan,2005,64.2
+795,Turkmenistan,2010,65.9
+795,Turkmenistan,2015,67.3
+798,Tuvalu,2010,69.6
+800,Uganda,2005,49.9
+800,Uganda,2010,55.2
+800,Uganda,2015,58.6
+804,Ukraine,2005,67.5
+804,Ukraine,2010,67.9
+804,Ukraine,2015,71.1
+784,United Arab Emirates,2005,74.8
+784,United Arab Emirates,2010,75.9
+784,United Arab Emirates,2015,76.7
+826,United Kingdom,2005,78.4
+826,United Kingdom,2010,79.7
+826,United Kingdom,2015,81
+834,United Rep. of Tanzania,2005,53.7
+834,United Rep. of Tanzania,2010,58.8
+834,United Rep. of Tanzania,2015,62.8
+840,United States of America,2005,77.2
+840,United States of America,2010,78.2
+840,United States of America,2015,78.9
+850,United States Virgin Islands,2005,77.1
+850,United States Virgin Islands,2010,77.8
+850,United States Virgin Islands,2015,79.1
+858,Uruguay,2005,75.3
+858,Uruguay,2010,76.2
+858,Uruguay,2015,77
+860,Uzbekistan,2005,67.7
+860,Uzbekistan,2010,69.1
+860,Uzbekistan,2015,70.8
+548,Vanuatu,2005,68.4
+548,Vanuatu,2010,70
+548,Vanuatu,2015,71.4
+862,Venezuela (Boliv. Rep. of),2005,72.8
+862,Venezuela (Boliv. Rep. of),2010,73.4
+862,Venezuela (Boliv. Rep. of),2015,73.9
+704,Viet Nam,2005,73.8
+704,Viet Nam,2010,74.7
+704,Viet Nam,2015,75.6
+732,Western Sahara,2005,63.9
+732,Western Sahara,2010,66.2
+732,Western Sahara,2015,68.4
+887,Yemen,2005,61
+887,Yemen,2010,62.7
+887,Yemen,2015,64.2
+894,Zambia,2005,46.9
+894,Zambia,2010,52.9
+894,Zambia,2015,59.7
+716,Zimbabwe,2005,44.1
+716,Zimbabwe,2010,48.4
+716,Zimbabwe,2015,57.6
