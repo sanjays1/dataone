@@ -54,7 +54,7 @@ We use assignment statements to assign values to **variables**. In an assignment
 a = 4 * 3
 ~~~
 
-Here the **variable **`a` has been assigned the **value** of the mathimatical expression `4 * 3` which is `12`. 
+Here the **variable**  `a` has been assigned the **value** of the mathimatical expression `4 * 3` which is `12`. 
 
 Once a variable has been assigned it may be used later in the program. 
 
@@ -89,7 +89,7 @@ sticker_cost_of_jacket = 125
 
 amount_of_jackets_bought = 10
 
-amount_saved = 125 * 10 * 0.2 
+amount_saved = sticker_cost_of_jacket * amount_of_jackets_bought * discount_off_total_order 
 
 amount_saved
 ~~~
@@ -98,5 +98,4 @@ amount_saved
 250
 ~~~
 
-
-
+It's a good idea to use variables whenever there's data that needs to be used again in a computer program. (Such as in the jacket example.) It will help save you quite a bit of time in the long run! 

@@ -1,0 +1,74 @@
+/* Utility Stylesheets */
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.img-scaled {
+    width: 100%;
+}
+
+.img-scaled-wh {
+    width: 100%;
+    height: 100%;
+}
+
+/* Freebies */
+
+body {	/*the outer layer of the site and global style attributes*/
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0px;
+    background: #edeae5;
+}
+
+#background {
+    background: url('background.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+#hero {
+    position: absolute;
+    color: white;
+    bottom: 90px;
+    right: 90px;
+    text-align: right;
+}
+#subheading {
+    font-size: 24px;
+}
+#heading {
+    font-size: 48px;
+}
+#link {
+    background: #de6868;
+    float: right;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+#container {
+    position: absolute;
+    width: 100%;
+    height: 518px;
+    top: 50%;
+    margin-top: -269px;
+}
+#content {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+/* Question 1 */
+
+/* Question 3 */

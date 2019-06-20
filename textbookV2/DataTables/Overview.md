@@ -3,6 +3,7 @@ title: "Overview"
 date: 2019-06-04T18:58:41-04:00
 draft: false
 name: Overview
+weight: 5
 ---
 
 
@@ -18,6 +19,8 @@ Lucky for us, there has been standards for a while now on how to properly organi
 In order to really understand data that's structured in tables, it's a good idea to look at some real data. Throughout this textbook we'll keep introducing datasets to bring some applicability to the concepts and tools that we learn. 
 
 The first dataset we're going to look at is a fun one, it's data describing LEGOs! 
+
+![This image is a picture of LEGOs. ](legos.jpg)
 
 LEGO is a popular brand of toy building bricks with an enthusiastic fan base of all ages. LEGOs are sold in sets with each set containing a number of parts in different shapes, sizes and colors. The data below is a sample of a larger dataset that describes every single official LEGO set sold up to June 2017. 
 
@@ -40,7 +43,7 @@ There are three **columns** in the dataset:
 
 ### Describing the Data (Data Dictionaries)
 
-It might be a little interesting why we described in such detail the LEGO set data. Isn't it possible to tell just from looking at the table what the the data is all about? 
+It might interesting why we described in such detail the LEGO set data. Isn't it possible to tell just from looking at the table what the the data is all about? 
 
 Unfortunately, not always. While this dataset is pretty straightforward sometimes the data you receive might not be so obvious. 
 
